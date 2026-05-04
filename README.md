@@ -119,4 +119,4 @@ npm run dev
 
 ## ⭐ Acknowledgment
 
-This project was developed as part of **M.Sc. CS & IT – Blockchain Activity** to demonstrate the practical application of decentralized technologies in credential management.
+This project was developed as part of **Blockchain** to demonstrate the practical application of decentralized technologies in credential management.
