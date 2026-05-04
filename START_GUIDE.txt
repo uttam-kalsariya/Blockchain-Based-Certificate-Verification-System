@@ -1,0 +1,29 @@
+PROJECT STARTUP GUIDE
+================================
+
+FOLLOW THESE STEPS TO RUN THE PROJECT:
+
+1. START THE BACKEND:
+   - Open terminal.
+   - Go to 'backend' folder.
+   - Run command: npm install
+   - Run command: npm start
+   - (Keep this terminal running)
+
+2. START THE FRONTEND:
+   - Open a SECOND terminal.
+   - Go to 'frontend' folder.
+   - Run command: npm install
+   - Run command: npm run dev
+   - Open the link in browser: http://localhost:5173
+
+3. HOW TO USE:
+   - Login as 'User' to upload a PDF certificate.
+   - Connect your MetaMask wallet and sign the request.
+   - Login as 'Admin' or 'LinkedIn' to approve the certificate.
+   - Once approved, go to 'Verify Certificate' section.
+   - Click the ID or Hash to copy it, paste it, and click 'Verify' to see the result.
+
+Note: Make sure you have Node.js installed on your computer.
+start npm
+start run dev
